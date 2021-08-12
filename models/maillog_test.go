@@ -11,7 +11,7 @@ import (
 
 	"github.com/gophish/gophish/config"
 
-	"github.com/gophish/gomail"
+	"github.com/thecybermafia/gomail"
 	"github.com/jordan-wright/email"
 	"gopkg.in/check.v1"
 )
